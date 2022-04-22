@@ -21,7 +21,7 @@ _ext
 build/
 dist/
 wheels/
-
+/.github/
 # pytorch/python/numpy formats
 *.pth
 *.pkl
