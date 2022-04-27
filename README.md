@@ -25,7 +25,7 @@ Install other requirements
 pip install -r requirements.txt
 ```
 
-Install Detectron2 (verizon 0.4)
+Install Detectron2 (version 0.4)
 
 For CUDA 11.0 and Torch 1.7.x
 ```
